@@ -30,7 +30,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/finger-2956974_640.jpg
           altText: Business consulting
           elementId: ''
           styles:
