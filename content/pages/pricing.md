@@ -21,7 +21,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Contacts
         tagline: 'e-mail:'
         subtitle: Be in good company
         text: >-
