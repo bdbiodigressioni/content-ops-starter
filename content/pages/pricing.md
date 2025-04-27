@@ -22,7 +22,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Contacts
-        tagline: 'e-mail: info@'
+        tagline: ''
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
