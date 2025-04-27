@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: BD Biodigressioni
+      text: 'BD '
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
