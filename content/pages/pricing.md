@@ -22,7 +22,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Business Consulting
-        tagline: Feature 2
+        tagline: 'e-mail:'
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
