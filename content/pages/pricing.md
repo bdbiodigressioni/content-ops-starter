@@ -12,7 +12,7 @@ sections:
     subtitle: Ambiente
     plans:
       - title: 'e-mail: info@biodigressioni.it'
-        price: $99
+        price: 'pec: biodigressioni'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
