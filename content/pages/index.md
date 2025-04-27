@@ -4,14 +4,28 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'BD '
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Biodigressioni
+    text: |
+      Siamo un team di bioinformatici e microbiologi
+      ambientali con sede in Italia e Canada.
+
+      Lavoriamo da più di 10 anni nel settore delle bonifiche di
+      matrici ambientali contaminate da idrocarburi pesanti,
+      prodotti clorurati e contaminanti emergenti.
+
+      Sviluppiamo processi microbiologici (Bioremediation)
+      per abbassare i costi di trattamento, procedendo con
+      strategie sostenibili in termini ambientali.
+
+      I nostri processi sono importanti per la partecipazione  a
+      gare d’appalto pubbliche e private.
+
+      I nostri clienti sono gestori ambientali, pubbliche
+      amministrazioni, enti di ricerca, imprese nei più  disparati
+      settori produttivi.
     actions:
       - label: Get started
         altText: ''
@@ -32,14 +46,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/plant-6318497_640.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
