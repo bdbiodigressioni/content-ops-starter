@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Contacts
 slug: pricing
 sections:
   - title:
