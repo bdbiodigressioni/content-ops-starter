@@ -12,7 +12,7 @@ sections:
     subtitle: Ambiente
     plans:
       - title: 'e-mail: info@biodigressioni.it'
-        price: 'pec: biodigressioni'
+        price: 'pec: biodigressioni@pec.it'
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
