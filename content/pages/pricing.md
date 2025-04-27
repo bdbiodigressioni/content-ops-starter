@@ -24,10 +24,9 @@ sections:
         title: Contacts
         tagline: ''
         subtitle: 'email: info@biodigressioni.it'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          pec: biodigressioni\@pec.it
+
         image:
           type: ImageBlock
           url: /images/finger-2956974_640.jpg
