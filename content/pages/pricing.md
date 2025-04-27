@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Ambiente
     plans:
-      - title: Professional
+      - title: 'e-mail: info@biodigressioni.it'
         price: $99
         details: per month
         description: >-
