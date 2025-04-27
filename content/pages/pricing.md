@@ -22,7 +22,6 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/finger-2956974_640.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
