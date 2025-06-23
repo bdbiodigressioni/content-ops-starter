@@ -50,6 +50,7 @@ sections:
             justifyContent: center
             borderColor: border-dark
             borderWidth: 2
+            borderStyle: solid
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
