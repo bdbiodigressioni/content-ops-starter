@@ -66,13 +66,6 @@
             "url": "/",
             "icon": "mail",
             "elementId": ""
-        },
-        {
-            "type": "Social",
-            "altText": "Email icon",
-            "url": "/info@biodigressioni.it",
-            "icon": "mail",
-            "elementId": ""
         }
     ],
     "legalLinks": [
