@@ -104,7 +104,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
         text: |+
           Disegnare fermentazioni per la loro crescita in
