@@ -59,6 +59,13 @@
             "url": "https://www.linkedin.com/in/biodigressioni-s-r-l-ab73722aa/",
             "icon": "linkedin",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "/info@biodigressioni.it",
+            "icon": "mail",
+            "elementId": ""
         }
     ],
     "legalLinks": [
