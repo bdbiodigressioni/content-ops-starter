@@ -52,7 +52,7 @@ sections:
             borderWidth: 2
             borderStyle: solid
             margin:
-              - mb-2
+              - mb-0
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
