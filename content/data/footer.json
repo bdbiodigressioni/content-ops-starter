@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "info",
             "icon": "mail",
             "type": "Social"
         }
