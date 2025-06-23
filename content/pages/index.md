@@ -134,7 +134,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           Studiare l’ecologia microbica della matrice trattata per
           verificare il recupero della biodiversità.
