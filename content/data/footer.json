@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "People",
-                "altText": "careers page",
+                "altText": "People",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
