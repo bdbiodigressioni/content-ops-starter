@@ -23,7 +23,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -46,7 +46,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
   - title:
       text: Meet the team
       color: text-dark
