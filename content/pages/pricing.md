@@ -48,6 +48,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderColor: border-dark
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
