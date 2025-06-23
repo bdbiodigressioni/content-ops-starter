@@ -167,7 +167,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -181,7 +181,7 @@ sections:
   - subtitle: Collaborazioni
     images:
       - url: /images/empathy-logo.svg
-        altText: 'https://www.ambientalink.it/'
+        altText: ''
         type: ImageBlock
         elementId: ''
       - url: /images/wellster-logo.svg
@@ -202,7 +202,7 @@ sections:
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
