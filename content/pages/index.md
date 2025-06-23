@@ -53,8 +53,9 @@ sections:
       type: TitleBlock
     subtitle: >-
       Il nostro approccio analitico è basato sulle tecnologiepiù avanzate di
-      sequenziamento del DNA, tecniche diNext Generation Sequencing.Lo strumento
-      permette di identificare e studiare ilmicrobioma della matrice ambientale
+      sequenziamento del DNA, tecniche diNext Generation Sequencing. Lo
+      strumento permette di identificare e studiare ilmicrobioma della matrice
+      ambientale
     items:
       - type: FeaturedItem
         title: 500k
