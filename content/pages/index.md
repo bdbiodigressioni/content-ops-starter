@@ -155,6 +155,7 @@ sections:
             borderRadius: full
             flexDirection: row
             borderColor: border-neutralAlt
+            borderWidth: 8
     actions: []
     badge:
       label: This is a badge
