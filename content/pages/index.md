@@ -56,7 +56,7 @@ sections:
 
       più avanzate di sequenziamento del DNA, tecniche di
 
-      Next Generation Sequencing.Lo strumento permette di identificare e
+      Next Generation Sequencing. Lo strumento permette di identificare e
       studiare il
 
       microbioma della matrice ambientale
