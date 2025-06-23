@@ -24,8 +24,14 @@ sections:
         title: Contacts
         tagline: ''
         subtitle: 'email: info@biodigressioni.it'
-        text: |+
-          pec: biodigressioni\@pec.it
+        text: >+
+          pec: <biodigressioni@pec.it>
+
+
+          linkedin: [BioDigressioni
+          s.r.l.](https://www.linkedin.com/in/biodigressioni-s-r-l-ab73722aa/)
+
+
 
         image:
           type: ImageBlock
