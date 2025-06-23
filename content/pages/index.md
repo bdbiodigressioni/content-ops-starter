@@ -91,10 +91,11 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Disegnare fermentazioni per la loro crescita in
+          biomasse che sono inoculate nella matrice ambientale in
+          trattamento per l’ottimizzazione del processo.
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
