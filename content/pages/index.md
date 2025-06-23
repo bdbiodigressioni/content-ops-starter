@@ -26,25 +26,7 @@ sections:
       I nostri clienti sono gestori ambientali, pubbliche
       amministrazioni, enti di ricerca, imprese nei più  disparati
       settori produttivi.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/plant-6318497_640.jpg
       altText: Unblock your team boost your time to production preview

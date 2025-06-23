@@ -62,13 +62,13 @@
     "socialLinks": [
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/biodigressioni-s-r-l-ab73722aa/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "info@biodigressioni.it",
             "icon": "mail",
             "type": "Social"
         }
