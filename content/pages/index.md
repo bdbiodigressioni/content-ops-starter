@@ -105,7 +105,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           Disegnare fermentazioni per la loro crescita in
           biomasse che sono inoculate nella matrice ambientale in
