@@ -183,6 +183,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: 'https://www.ambientalink.it/'
         type: ImageBlock
+        elementId: 'https://www.ambientalink.it/'
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
