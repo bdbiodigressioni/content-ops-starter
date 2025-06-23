@@ -154,6 +154,7 @@ sections:
               - pr-8
             borderRadius: full
             flexDirection: row
+            borderColor: border-dark
     actions: []
     badge:
       label: This is a badge
