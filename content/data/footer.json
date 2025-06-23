@@ -6,11 +6,11 @@
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Home",
+                "altText": "Home",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,30 +18,23 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Contacts",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Contacts"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
+                "label": "People",
+                "altText": "People",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -49,12 +42,13 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Projects",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Projects"
             }
         ],
         "type": "FooterLinksGroup"
@@ -64,12 +58,6 @@
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/biodigressioni-s-r-l-ab73722aa/",
             "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "info@biodigressioni.it",
-            "icon": "mail",
             "type": "Social"
         }
     ],
