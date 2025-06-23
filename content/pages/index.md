@@ -133,7 +133,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
         text: |+
           Studiare l’ecologia microbica della matrice trattata per
