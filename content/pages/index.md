@@ -56,11 +56,15 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: |+
-
+        text: >+
           Identificare, quantificare e biostimolare i microrganismi
+
           che sono presenti nella matrice e naturalmente capaci di
-          degradare il contaminante.
+
+          degradare il contaminante; adottare strategie di laboratorio per
+          isolare i
+
+          microrganismi che degradano il contaminante. 
 
         actions: []
         elementId: null
