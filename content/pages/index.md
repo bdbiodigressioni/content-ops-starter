@@ -181,7 +181,7 @@ sections:
   - subtitle: Collaborazioni
     images:
       - url: /images/empathy-logo.svg
-        altText: 'https://www.ambientalink.it/'
+        altText: ''
         type: ImageBlock
         elementId: ''
       - url: /images/wellster-logo.svg
