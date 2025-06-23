@@ -45,10 +45,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: |-
-        Il nostro approccio analitico è basato sulle tecnologie
-        più avanzate di sequenziamento del DNA, tecniche di
-        Next Generation Sequencing.
+      text: Come arriviamo all’obbiettivo
       color: text-dark
       styles:
         self:
