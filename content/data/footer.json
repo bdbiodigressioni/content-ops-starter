@@ -63,7 +63,7 @@
         {
             "type": "Social",
             "altText": "Email icon",
-            "url": "/",
+            "url": "",
             "icon": "mail",
             "elementId": ""
         }
