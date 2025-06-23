@@ -69,7 +69,7 @@ sections:
       ambientale
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
         text: >+
           Identificare, quantificare e biostimolare i microrganismi
