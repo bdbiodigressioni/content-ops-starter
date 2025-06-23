@@ -70,7 +70,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           Identificare, quantificare e biostimolare i microrganismi
 
