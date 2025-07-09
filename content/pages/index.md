@@ -28,7 +28,7 @@ sections:
       settori produttivi.
     actions: []
     media:
-      url: /images/copertina_sito.jpg
+      url: /images/copertina_sito_400.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
