@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Biodigressioni
+    subtitle: ''
     text: |
       Siamo un team di bioinformatici e microbiologi
       ambientali con sede in Italia e Canada.
