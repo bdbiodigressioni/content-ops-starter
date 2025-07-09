@@ -31,7 +31,7 @@
         },
         {
             "label": "People",
-            "altText": "People",
+            "altText": "",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
