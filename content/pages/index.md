@@ -7,6 +7,9 @@ sections:
       text: Chi siamo e cosa facciamo
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: ''
     text: >+
       <div style="text-align: left">Siamo un team di chimici, bioinformatici e
