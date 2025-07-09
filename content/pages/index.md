@@ -28,7 +28,7 @@ sections:
       settori produttivi.
     actions: []
     media:
-      url: /images/Logo_BD.svg
+      url: /images/download.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
