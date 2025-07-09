@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'BD '
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Biodigressioni
+    subtitle: ''
     text: |
       Siamo un team di bioinformatici e microbiologi
       ambientali con sede in Italia e Canada.
@@ -28,7 +28,7 @@ sections:
       settori produttivi.
     actions: []
     media:
-      url: /images/plant-6318497_640.jpg
+      url: /images/Logo_BD.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -43,23 +43,44 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Come arriviamo all’obbiettivo
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Il nostro approccio analitico è basato sulle tecnologiepiù avanzate di
+      sequenziamento del DNA, tecniche diNext Generation Sequencing. Lo
+      strumento permette di identificare e studiare ilmicrobioma della matrice
+      ambientale
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: ''
+        subtitle: ''
+        text: >+
+          Identificare, quantificare e biostimolare i microrganismi
+
+          che sono presenti nella matrice e naturalmente capaci di
+
+          degradare il contaminante; adottare strategie di laboratorio per
+          isolare i
+
+          microrganismi che degradano il contaminante. 
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -82,17 +103,22 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |+
+          Disegnare fermentazioni per la loro crescita in
+          biomasse che sono inoculate nella matrice ambientale in
+          trattamento per l’ottimizzazione del processo.
+
         image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
           type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -104,20 +130,23 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |+
+          Studiare l’ecologia microbica della matrice trattata per
+          verificare il recupero della biodiversità.
+
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -129,19 +158,11 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+            justifyContent: center
+            textAlign: left
+    actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -160,6 +181,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - subtitle: Collaborazioni
     images:
       - url: /images/empathy-logo.svg
