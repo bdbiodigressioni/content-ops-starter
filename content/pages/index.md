@@ -4,28 +4,42 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Chi siamo e cosa facciamo
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: left
+          fontWeight: 700
     subtitle: ''
-    text: |
-      Siamo un team di bioinformatici e microbiologi
+    text: >+
+      <div style="text-align: left">Siamo un team di chimici, bioinformatici e
+      microbiologi
+
       ambientali con sede in Italia e Canada.
 
       Lavoriamo da più di 10 anni nel settore delle bonifiche di
+
       matrici ambientali contaminate da idrocarburi pesanti,
+
       prodotti clorurati e contaminanti emergenti.
 
-      Sviluppiamo processi microbiologici (Bioremediation)
+      Sviluppiamo processi microbiologici **(Bioremediation)**
+
       per abbassare i costi di trattamento, procedendo con
+
       strategie sostenibili in termini ambientali.
 
-      I nostri processi sono importanti per la partecipazione  a
+      I nostri processi sono importanti per la partecipazione a
+
       gare d’appalto pubbliche e private.
 
       I nostri clienti sono gestori ambientali, pubbliche
-      amministrazioni, enti di ricerca, imprese nei più  disparati
-      settori produttivi.
+
+      amministrazioni, enti di ricerca, imprese nei più disparati
+
+      settori produttivi.</div>
+
     actions: []
     media:
       url: /images/copertina_sito_400.jpg
@@ -53,9 +67,9 @@ sections:
       type: TitleBlock
     subtitle: >-
       Il nostro approccio analitico è basato sulle tecnologiepiù avanzate di
-      sequenziamento del DNA, tecniche diNext Generation Sequencing. Lo
-      strumento permette di identificare e studiare ilmicrobioma della matrice
-      ambientale
+      sequenziamento del DNA, tecniche di Next Generation Sequencing. Lo
+      strumento permette di identificare e studiare il microbioma della matrice
+      ambientale.
     items:
       - type: FeaturedItem
         title: ''

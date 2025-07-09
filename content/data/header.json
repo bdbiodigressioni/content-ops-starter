@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Contacts",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Projects",
             "altText": "Projects",
             "url": "/blog",
@@ -30,8 +22,16 @@
             "type": "Link"
         },
         {
-            "label": "People",
-            "altText": "People",
+            "label": "Contacts",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Events",
+            "altText": "Events",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
