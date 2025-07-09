@@ -9,33 +9,32 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: left">```
+      <div style="text-align: left">Siamo un team di chimici, bioinformatici e
+      microbiologi
 
-      Chi siamo e cosa facciamo
+      ambientali con sede in Italia e Canada.
 
+      Lavoriamo da più di 10 anni nel settore delle bonifiche di
 
-      ```matrici ambientali contaminate da idrocarburi pesanti,
+      matrici ambientali contaminate da idrocarburi pesanti,
 
       prodotti clorurati e contaminanti emergenti.
 
-      \--------------------------------------------Sviluppiamo processi
-      microbiologici (Bioremediation)
+      Sviluppiamo processi microbiologici (Bioremediation)
 
       per abbassare i costi di trattamento, procedendo con
 
       strategie sostenibili in termini ambientali.
 
-      I nostri processi sono importanti per la partecipazione  a
+      I nostri processi sono importanti per la partecipazione a
 
       gare d’appalto pubbliche e private.
 
       I nostri clienti sono gestori ambientali, pubbliche
 
-      amministrazioni, enti di ricerca, imprese nei più  disparati
+      amministrazioni, enti di ricerca, imprese nei più disparati
 
-      settori produttivi.
-
-      -------------------</div>
+      settori produttivi.</div>
 
     actions: []
     media:
