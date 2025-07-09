@@ -9,32 +9,32 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">Siamo un team di bioinformatici e
-      microbiologi
+      <div style="text-align: left">## **Chi siamo e cosa facciamo**Siamo un
+      team di bioinformatici e microbiologi
 
       ambientali con sede in Italia e Canada.
 
-      ---------------------------------------Lavoriamo da più di 10 anni nel
-      settore delle bonifiche di
+      ---------------------------------------
+
+      Lavoriamo da più di 10 anni nel settore delle bonifiche di
 
       matrici ambientali contaminate da idrocarburi pesanti,
 
       prodotti clorurati e contaminanti emergenti.
 
-      --------------------------------------------Sviluppiamo processi
-      microbiologici (Bioremediation)
+      --------------------------------------------
+
+      Sviluppiamo processi microbiologici (Bioremediation)
 
       per abbassare i costi di trattamento, procedendo con
 
       strategie sostenibili in termini ambientali.
 
-      --------------------------------------------I nostri processi sono
-      importanti per la partecipazione  a
+      I nostri processi sono importanti per la partecipazione  a
 
       gare d’appalto pubbliche e private.
 
-      -----------------------------------I nostri clienti sono gestori
-      ambientali, pubbliche
+      I nostri clienti sono gestori ambientali, pubbliche
 
       amministrazioni, enti di ricerca, imprese nei più  disparati
 
