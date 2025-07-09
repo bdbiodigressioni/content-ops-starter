@@ -24,7 +24,7 @@ sections:
 
       prodotti clorurati e contaminanti emergenti.
 
-      Sviluppiamo processi microbiologici (Bioremediation)
+      Sviluppiamo processi microbiologici **(Bioremediation)**
 
       per abbassare i costi di trattamento, procedendo con
 
