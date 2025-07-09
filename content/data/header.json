@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "People",
+            "label": "Events",
             "altText": "Events",
             "url": "/careers",
             "icon": "arrowRight",
