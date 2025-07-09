@@ -28,7 +28,7 @@ sections:
       settori produttivi.
     actions: []
     media:
-      url: /images/Logo_BD.svg
+      url: /images/copertina_sito.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -43,17 +43,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: FeaturedItemsSection
     title:
       text: Come arriviamo all’obbiettivo
@@ -243,16 +232,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Grow your business 10x faster
       color: text-dark
