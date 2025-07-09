@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      ![](/images/Logo_BD.png)Siamo un team di bioinformatici e microbiologi
+      Siamo un team di bioinformatici e microbiologi
       ambientali con sede in Italia e Canada.
 
       Lavoriamo da più di 10 anni nel settore delle bonifiche di
