@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: justify
+          fontWeight: 700
     subtitle: ''
     text: >+
       <div style="text-align: left">Siamo un team di chimici, bioinformatici e
